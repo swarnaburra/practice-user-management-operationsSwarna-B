@@ -1,14 +1,14 @@
 /*INSERT INTO users (username, firstName, lastName, age) VALUES ('jdoe', 'John', 'Doe', 35);
 -- insert new data into a table
-INSERT INTO users (username, firstName, lastName, age)
-VALUES
-    ('asmith', 'Alice', 'Smith', 20),
-    ('bdoe', 'Bob', 'Doe', 33),
-    ('cjohnson', 'Charlie', 'Johnson', 41),
-    ('dlee', 'David', 'Lee', 19),
-    ('ejones', 'Eve', 'Jones', 30),
-    ('fkim', 'Frank', 'Kim', 15),
-    ('gwhite', 'Grace', 'White', 22),
+--INSERT INTO users (username, firstName, lastName, age)
+--VALUES
+  --  ('asmith', 'Alice', 'Smith', 20),
+    -- ('bdoe', 'Bob', 'Doe', 33),
+    -- ('cjohnson', 'Charlie', 'Johnson', 41),
+   --  ('dlee', 'David', 'Lee', 19),
+   --  ('ejones', 'Eve', 'Jones', 30),
+    -- ('fkim', 'Frank', 'Kim', 15),
+    -- ('gwhite', 'Grace', 'White', 22),
     ('hwang', 'Henry', 'Wang', 19),
     ('ijones', 'Ivy', 'Jones', 50),
     ('jdoe', 'John', 'Doe', 65),
